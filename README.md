@@ -10,4 +10,5 @@ Test repo for  understanding git flow
 import requests
 
 session = requests.Session()
+r = session.request
 ```
